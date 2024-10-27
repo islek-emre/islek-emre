@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @islek-emre
-- 👀 I’m interested in ...
-- CyberSecurty,Python,C
+- 👀 I’m interested in:
+ "CyberSecurty,Python,C"
   
 
 <!---
