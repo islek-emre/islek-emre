@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @islek-emre
-- 👀 I’m interested in ...Flutter,Kotlin,Python,Java,Dart,C++,Go
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...https://allmylinks.com/emreislek44
+- 👀 I’m interested in ...
+- CyberSecurty,Python,C
+  
 
 <!---
 islek-emre/islek-emre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
